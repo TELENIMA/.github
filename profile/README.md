@@ -1,8 +1,8 @@
-# TELENIMA
-### THE PULSE OF CHANGE
-*our light on the truth*
+<div align="center">
+  <h1><span translate="no">TELENIMA</span></h1>
+  <p><sub>THE PULSE OF CHANGE</sub></p>
+</div>
 
----
 
 ## Beyond Media. Towards Meaningful Change.
 
@@ -53,7 +53,7 @@ Because seeing is not always the same as understanding. And understanding can be
 
 <div align="center">
 
-<p><strong><span style="font-size: 1.5em;">TELENIMA</span></strong></p>
+<p><strong><span translate="no" style="font-size: 2em;">TELENIMA</span></strong></p>
 
 <p><sub>THE PULSE OF CHANGE</sub></p>
 
